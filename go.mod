@@ -1,3 +1,3 @@
-module exact_cover
+module github.com/MarhicJeromeGIT/goverture
 
-go 1.22.5
+go 1.23.1

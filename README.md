@@ -26,9 +26,10 @@ You can use this library to solve exact cover problems by passing a 2D matrix (s
 package main
 
 import (
-    "context"
-    "fmt"
-    "github.com/MarhicJeromeGIT/goverture"
+	"context"
+	"fmt"
+
+	cover_solver "github.com/MarhicJeromeGIT/goverture"
 )
 
 func main() {

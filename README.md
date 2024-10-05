@@ -13,7 +13,7 @@ A Go library for solving exact cover problems using Donald Knuth's Algorithm X w
 To install the library, run the following command:
 
 ```bash
-go get github.com/MarhicJeromeGIT/goverture
+go get github.com/goverture/exact_cover
 ```
 
 ## Usage
@@ -29,7 +29,7 @@ import (
 	"context"
 	"fmt"
 
-	cover_solver "github.com/MarhicJeromeGIT/goverture"
+	cover_solver "github.com/goverture/exact_cover"
 )
 
 func main() {
